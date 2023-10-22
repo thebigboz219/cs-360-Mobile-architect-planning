@@ -31,5 +31,18 @@
     how it handles malicious interactions. The more strenuous your tests are the more bugs and loopholes you'll find in 
     your code that can then be polished away. 
 # Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
-    
+        When I was initially designing how I wanted the application to look I considered having a screen dedicated to a 
+    line graph using the data users input as the two axis. When it finally came time to develop the screens and their 
+    components I found the data grid incredibly complicated all on its' own. With the deadlines we had in place for 
+    iteration submission it was decided that I would forgo the graph screen in favor of perfecting data grid functionality. 
+    I also found that I needed a seperate screen for data editting so I could put a destinction between new input 
+    data and changed data otherwise each edit eneded up adding the data as a new entry. 
 # In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+        If it's not a little obvious by my mentioning of it throughout most of these questions, I have to say the data 
+        grid is my proudest compenent in this application. I went through several java sites, video tutorials, and question 
+        forums in order to understand how to build a seperate layout for list items that could then be inserted into a 
+        recyclerview that could then be programmed to individually respond to user interactions. By the end of the montage 
+        of research I had successfully made a grid style list that could both be scrolled endlessly if data exceeded the
+        screen size, and allowed users to add, edit, and delete any row of data they input. I know this questions says 
+        experience and knowledge but I'd like to think this shows my skills in research/data gathering. With this skill 
+        I can potentially learn anything necessary to accomplish a task given to me including develop an app I know little about. :)
